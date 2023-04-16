@@ -1,0 +1,14 @@
+# To initiate Django project
+ In Terminal cmd : 
+    - django-admin startproject <project_name>
+    - cd <project_name>
+In VS editor :
+    - open directory and review files
+
+# To execute Django project :
+ In Terminal cmd:
+    - cd <project_name>
+    - Run manage.py (shows commmands list)
+    - Run manage.py runserver (runs the server, identifies issues & changes)
+ 
+
