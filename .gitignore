@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,python,flask,django,database
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,python,flask,django,database
 
+### personal file ###
+class.py
+
 ### Database ###
 *.accdb
 *.db
